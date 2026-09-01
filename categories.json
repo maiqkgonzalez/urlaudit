@@ -14,7 +14,7 @@
         "url-analysis-command-and-control": "https://urlfiltering.paloaltonetworks.com/test-inline-url-analysis-command-and-control",
         "high-risk": "https://urlfiltering.paloaltonetworks.com/test-high-risk"
     },
-    "non_malicious": {
+    "non-malicious": {
         "abortion": "https://urlfiltering.paloaltonetworks.com/test-abortion",
         "abused-drugs": "https://urlfiltering.paloaltonetworks.com/test-abused-drugs",
         "adult": "https://urlfiltering.paloaltonetworks.com/test-adult",
